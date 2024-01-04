@@ -1,9 +1,9 @@
-# leetcode_v1
+## Leetcode clone
 
-Build an end to end leetcode v1:
+Build an end to end leetcode clone
 
-1.) Users should be able to sign in 
-2.) Users should be able to list all the problem statements
-3.) Users should be able to submit solutions and get back results
-4.) Users should get points based on how fast their submission was
-5.) Global leaderboard which contains daily, weekly, monthly and all time rankers
+- Users should be able to sign in
+- Users should be able to list all the problem statements
+- Users should be able to submit solutions and get back results
+- Users should get points based on how fast their submission was
+- Global leaderboard which contains daily, weekly, monthly and all time rankers
